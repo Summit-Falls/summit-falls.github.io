@@ -1,14 +1,14 @@
 {
-    "bronze": { "name": "Bronze Rank", "price": "5.00 USD", "link": "#" },
-    "silver": { "name": "Silver Rank", "price": "7.00 USD", "link": "#" },
-    "gold": { "name": "Gold Rank", "price": "10.00 USD", "link": "#" },
-    "platinum": { "name": "Platinum Rank", "price": "13.00 USD", "link": "#" },
-    "summit": { "name": "Summit Rank", "price": "17.00 USD", "link": "#" },
-    "summit_plus": { "name": "Summit+ Rank", "price": "19.99 USD Per Month", "link": "#" },
-    "citizen_kit": { "name": "Citizen Kit", "price": "6.99 USD", "link": "#" },
-    "criminal_kit": { "name": "Criminal Kit", "price": "699 USD", "link": "#" },
-    "uwu_kit": { "name": "UwU Kit", "price": "20.69 USD", "link": "/shop/uwu-kit" },
-    "priority_queue": { "name": "Priority Queue", "price": "5.99.00 USD", "link": "#" },
-    "custom_tag": { "name": "Custom Name Tag", "price": "1.99 USD", "link": "#" },
-    "custom_kit": { "name": "Custom Kit", "price": "20.00 USD", "link": "#" }
+    "bronze": { "name": "Bronze Rank", "price": "5.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/bronze-rank" },
+    "silver": { "name": "Silver Rank", "price": "7.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/silver-rank" },
+    "gold": { "name": "Gold Rank", "price": "10.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/gold-rank" },
+    "platinum": { "name": "Platinum Rank", "price": "13.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/platinum-rank" },
+    "summit": { "name": "Summit Rank", "price": "17.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/summit-rank" },
+    "summit_plus": { "name": "Summit+ Rank", "price": "19.99 USD Per Month", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/summit-rank_1" },
+    "citizen_kit": { "name": "Citizen Kit", "price": "6.99 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/citizen-kit" },
+    "criminal_kit": { "name": "Criminal Kit", "price": "6.99 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/criminal-kit" },
+    "uwu_kit": { "name": "UwU Kit", "price": "20.69 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/uwu-kit" },
+    "priority_queue": { "name": "Priority Queue", "price": "5.99.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/priority-queue" },
+    "custom_tag": { "name": "Custom Name Tag", "price": "1.99 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/custom-tag" },
+    "custom_kit": { "name": "Custom Kit", "price": "20.00 USD", "link": "https://sites.google.com/view/summit-falls-roleplay/shop/custom-kit-8-people" }
 }
